@@ -6,7 +6,7 @@
     z-index: 25; /* Stay on top */
     top: 175; /* Stay at the top */
     left: 0;
-    background-color: #111; /* Black */
+    background-color: #F1F1F1; /* Black */
     overflow-x: hidden; /* Disable horizontal scroll */
     padding-top: 20px;
   }
@@ -16,13 +16,13 @@
     padding: 6px 8px 6px 16px;
     text-decoration: none;
     font-size: 25px;
-    color: #818181;
+    color: #111111;
     display: block;
   }
   
   /* When you mouse over the navigation links, change their color */
   .sidenav a:hover {
-    color: #f1f1f1;
+    color: #888B90;
   }
   
   /* Style page content */

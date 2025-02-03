@@ -29,7 +29,7 @@
   .main {
     margin-left: 160px; /* Same as the width of the sidebar */
     padding: 0px 10px;
-    font-family:'DM Sans';
+    font-family: Courier New;
   }
   
   /* On smaller screens, where height is less than 450px, change the style of the sidebar (less padding and a smaller font size) */
